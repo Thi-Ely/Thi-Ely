@@ -1,4 +1,5 @@
-                                              
+  ![Snake animation](https://github.com/thi-ely/thi-ely/blob/output/github-contribution-grid-snake.svg)
+                                 
                                        
                                        
   **THIELY CARNEIRO**  💞️
