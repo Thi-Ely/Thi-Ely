@@ -5,7 +5,7 @@
   **THIELY CARNEIRO**  💞️
  
 
-- Meu nome é Thiely, tenho 21 anos!
+- Meu nome é Thiely, tenho 23 anos!
 - Ainda não trabalho na area.
 - Sou iniciante
 - Estudo Analise e Desenvolvimento de Sistemas.
